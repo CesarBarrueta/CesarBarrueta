@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarbarrueta&label=Profile%20views&color=0e75b6&style=flat" alt="cesarbarrueta" /> </p>
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Astro and Unity**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Unity**
 
 - 📫 How to reach me **cesarantonio180@gmail.com**
 
